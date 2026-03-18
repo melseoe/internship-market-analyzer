@@ -1,6 +1,6 @@
 # internship-market-analyzer
 
-A Python tool that scrapes and visualizes internship data from Youthall to identify market trends in locations, sectors, and top hiring companies using: [cite: 20, 53]
+A Python tool that scrapes and visualizes internship data from Youthall to identify market trends in locations, sectors, and top hiring companies using:
 - Python 
 - BeautifulSoup
 - Selenium 
